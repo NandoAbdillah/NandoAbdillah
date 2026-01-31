@@ -54,5 +54,5 @@ Build. Break. Fix. Repeat
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandoabdillah&show_icons=true&locale=en&layout=compact" alt="nandoabdillah" /></p> -->
-<p><img align="left" src="https://camo.githubusercontent.com/e1ed59163f9f486d9deac2b1aea65ce86bac5b99a71b35bbaae917c6e071ef6e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e616e646f616264696c6c616826" alt="nandoabdillah" /></p>
+<!-- <p><img align="left" src="https://camo.githubusercontent.com/e1ed59163f9f486d9deac2b1aea65ce86bac5b99a71b35bbaae917c6e071ef6e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e616e646f616264696c6c616826" alt="nandoabdillah" /></p> -->
 
